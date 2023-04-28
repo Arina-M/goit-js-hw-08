@@ -22,6 +22,7 @@ function createGalleryItem(galleryItems) {
     ).join('');
 }
 
+
 //  SimpleLightbox
 const slideOriginalImg = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
